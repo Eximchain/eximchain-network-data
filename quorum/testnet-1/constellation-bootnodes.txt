@@ -1,0 +1,14 @@
+ec2-54-199-140-238.ap-northeast-1.compute.amazonaws.com
+ec2-13-125-63-212.ap-northeast-2.compute.amazonaws.com
+ec2-13-127-59-54.ap-south-1.compute.amazonaws.com
+ec2-52-77-245-11.ap-southeast-1.compute.amazonaws.com
+ec2-13-211-150-135.ap-southeast-2.compute.amazonaws.com
+ec2-35-182-46-225.ca-central-1.compute.amazonaws.com
+ec2-18-195-154-233.eu-central-1.compute.amazonaws.com
+ec2-34-244-245-114.eu-west-1.compute.amazonaws.com
+ec2-18-130-0-219.eu-west-2.compute.amazonaws.com
+ec2-18-231-29-80.sa-east-1.compute.amazonaws.com
+ec2-54-152-29-147.compute-1.amazonaws.com
+ec2-18-188-67-37.us-east-2.compute.amazonaws.com
+ec2-52-53-161-237.us-west-1.compute.amazonaws.com
+ec2-54-200-102-225.us-west-2.compute.amazonaws.com
